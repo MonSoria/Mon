@@ -14,5 +14,3 @@ V 1.0
 
 Testing de nuevo personaje (caja).
 Los otros servicios están incluidos
-
-DD
